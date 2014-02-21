@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::900913" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "ID": 1, "施設名": "北島田児童館", "郵便番号": "770-0051", "所在地": "徳島市北島田町3丁目57", "電話番号": "088-632-0020", "特記事項": null, "緯度": 34.0874669, "経度": 134.5129222 }, "geometry": { "type": "Point", "coordinates": [ 134.5129222, 34.0874669 ] } },
